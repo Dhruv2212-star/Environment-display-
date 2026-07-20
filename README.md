@@ -87,6 +87,7 @@ lets understand each component's function one by one in a block to see what func
 
 
 8. Block 8 – User Interface
+
 | Ref | Component   | Role in the Circuit                                                         |
 | --- | ----------- | --------------------------------------------------------------------------- |
 | J2  | OLED Header | Connects the external OLED display over the I²C bus.                        |
