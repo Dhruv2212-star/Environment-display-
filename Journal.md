@@ -1,4 +1,4 @@
-# Schematic  
+# Schematic  | 3 hours 
 Lapse- https://lapse.hackclub.com/timelapse/Z0Db5BN6gkWm  
 Lapse- https://lapse.hackclub.com/timelapse/cz-Wl3GnSz1p  
 1. Power  | 15 mins  
@@ -54,6 +54,19 @@ Lapse- https://lapse.hackclub.com/timelapse/cz-Wl3GnSz1p
 14. block 12 gpio expansion headers | 10 mins  
 
 <img width="292" height="333" alt="block 12" src="https://github.com/user-attachments/assets/464f897c-2ca2-46de-938e-76ac6e330b3c" />
+------------------------------------------------------------------------------------------------------------------------------------------
+# Footprint assignment | 30 mins  
+searched for the correct parts online and had to download their footprints  
+Lapse- https://lapse.hackclub.com/timelapse/WOPtqokwvo3c  
+# PCB tracing  | 2 hours 30 mins 
+took me a lot of time because i had to recheck every connection because of the number of connections needed to be made, they crosed 150 connections and there were 2-3 possible connections so i had to revise the schematic one or twice and change the footprints and symbols too  
+Lapse 1- https://lapse.hackclub.com/timelapse/publish/9UZKi9gmFOcU  
+Lapse 2- https://lapse.hackclub.com/timelapse/publish/AlIP1qHjNjiN  
+<img width="957" height="557" alt="PCB traced" src="https://github.com/user-attachments/assets/9171fa4e-620b-4f9f-b833-b5c30cd5d843" />
+
+
+
+
 
 
 
