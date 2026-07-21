@@ -94,6 +94,17 @@ lets understand each component's function one by one in a block to see what func
 | D2  | Status LED  | Indicates board status such as power or firmware activity.                  |
 | R10 | 1 kΩ        | Limits current through the status LED to protect it from excessive current. |
 
+# Schematic 
+<img width="684" height="468" alt="schematic" src="https://github.com/user-attachments/assets/d9d41916-1365-4af7-8de5-d5e305a4931b" />
+
+# Final traced PCB 
+
+
+<img width="957" height="557" alt="PCB traced" src="https://github.com/user-attachments/assets/0535ccaa-2dd1-4b36-8f27-bc3ab6b72561" 
+
+# 3D view of the assumed PCB look 
+
+<img width="708" height="519" alt="3D png" src="https://github.com/user-attachments/assets/0819e0dc-f4ab-45e9-a6bc-8f320afc4535" />
 
 
 
