@@ -99,8 +99,7 @@ lets understand each component's function one by one in a block to see what func
 
 # Final traced PCB 
 
-
-<img width="957" height="557" alt="PCB traced" src="https://github.com/user-attachments/assets/0535ccaa-2dd1-4b36-8f27-bc3ab6b72561" 
+<img width="957" height="557" alt="PCB traced" src="https://github.com/user-attachments/assets/a1518081-8754-4b72-a39f-ae7a49d4387f" />
 
 # 3D view of the assumed PCB look 
 
